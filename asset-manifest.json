@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Marvel-Quizz/static/css/main.dab35a61.chunk.css",
-    "main.js": "/Marvel-Quizz/static/js/main.44a0c813.chunk.js",
-    "main.js.map": "/Marvel-Quizz/static/js/main.44a0c813.chunk.js.map",
+    "main.js": "/Marvel-Quizz/static/js/main.f98dc67d.chunk.js",
+    "main.js.map": "/Marvel-Quizz/static/js/main.f98dc67d.chunk.js.map",
     "runtime-main.js": "/Marvel-Quizz/static/js/runtime-main.1311e13c.js",
     "runtime-main.js.map": "/Marvel-Quizz/static/js/runtime-main.1311e13c.js.map",
     "static/css/2.0975cee1.chunk.css": "/Marvel-Quizz/static/css/2.0975cee1.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.0975cee1.chunk.css",
     "static/js/2.bfc6e5a1.chunk.js",
     "static/css/main.dab35a61.chunk.css",
-    "static/js/main.44a0c813.chunk.js"
+    "static/js/main.f98dc67d.chunk.js"
   ]
 }
